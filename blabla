@@ -1,0 +1,50 @@
+/* Pengaturan dasar */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header */
+header {
+    background: #007BFF;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+}
+
+/* Navigasi */
+nav {
+    background: #006BDD;
+    padding: 10px 20px;
+}
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+nav ul li {
+    display: inline;
+}
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    padding: 10px 15px;
+}
+nav ul li a:hover {
+    background-color: #0056b3;
+}
+
+/* Konten */
+section {
+    padding: 20px;
+}
+
+/* Footer */
+footer {
+    background: #007BFF;
+    color: white;
+    text-align: center;
+    padding: 10px 20px;
+}
